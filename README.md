@@ -1,4 +1,4 @@
-# KOPS Config generator
+# Kube Config generator
 
 Kubernetes supports couple of option to authenticate the users, in kops you are start with credenetials of admin.
 
